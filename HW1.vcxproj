@@ -137,7 +137,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="sample.cpp" />
+    <ClCompile Include="hw1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
