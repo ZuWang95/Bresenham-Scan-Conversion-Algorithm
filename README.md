@@ -2,5 +2,6 @@
 
 A classic scan conversion algorithm implemented in OpenGL, with animation provided.
 
-<img src="https://cse.engineering.nyu.edu/cs653/assg1/fig-circles.gif)https://cse.engineering.nyu.edu/cs653/assg1/fig-circles.gif" width="100" height="100">
+![image](https://github.com/405-not-found/Bresenham-Scan-Conversion-Algorithm/assets/98379785/259f5420-7eff-4fb8-bcad-62885b3e9273)
+
 
