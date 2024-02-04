@@ -1,0 +1,8 @@
+﻿  sample.cpp
+C:\code\CS-UY 4533\Homework 1\HW1\sample.cpp(202,98): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\code\CS-UY 4533\Homework 1\HW1\sample.cpp(202,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\code\CS-UY 4533\Homework 1\HW1\sample.cpp(202,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\code\CS-UY 4533\Homework 1\HW1\sample.cpp(222,42): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\code\CS-UY 4533\Homework 1\HW1\sample.cpp(222,31): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\code\CS-UY 4533\Homework 1\HW1\sample.cpp(222,20): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  HW1.vcxproj -> C:\code\CS-UY 4533\Homework 1\HW1\x64\Debug\HW1.exe
