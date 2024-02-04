@@ -4,5 +4,5 @@
 
 
 
-<img src="https://cse.engineering.nyu.edu/cs653/assg1/fig-circles-an-4.gif" alt="[IMAGE of]" style="zoom:80%;" />
+<img src="https://cse.engineering.nyu.edu/cs653/assg1/fig-circles-an-4.gif" alt="[IMAGE of]" style="zoom: 67%;" />
 
